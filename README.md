@@ -64,6 +64,8 @@ La información que se proporcionará se basará en:
 
 - Diseño de la web. Usaremos Bootstrap y CSS para mejorar la página web.
 
+- Despliegue de la página web. Usaremos AWS EC2 para desplegar la página gracias a una instancia EC2.
+
 ## Planificación
 
 ### Comienzo del proyecto (8h)
@@ -94,6 +96,7 @@ La información que se proporcionará se basará en:
 
 ### Búsqueda de errores y documentación (10h)
 
+- Lanzar la página mediante una instancia EC2.
 - Comprobar la web al máximo en busca de errores y corregirlos.
 - Documentación de todo el proyecto, con su respectiva descripción, caraterísticas e instrucciones de uso.
 - Entrega del proyecto y su respectiva documentación.
