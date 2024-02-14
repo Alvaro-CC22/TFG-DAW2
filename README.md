@@ -2,17 +2,12 @@
 
 # **F1 Records and Stats**
 
-| |
+|Desarrollo de Aplicaciones Web|
 |------------------------------|
 |Autor: Álvaro Camacho Cortés|
 | Tutor: |
-|  |
-
-| |
-|------------------------------|
-|I.E.S. Francisco Romero Vargas (Jerez de la Frontera)|
-|Desarrollo de Aplicaciones Web|
 |Curso: 2023/2024|
+|I.E.S. Francisco Romero Vargas (Jerez de la Frontera)|
 
 ## Índice
 
