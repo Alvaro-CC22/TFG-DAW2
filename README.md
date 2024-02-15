@@ -62,7 +62,7 @@ La información que se proporcionará se basará en:
 
 - Imágenes y elementos gráficos. Serán creados con Adobe Photoshop.
 
-- Diseño de la web. Usaremos Bootstrap y CSS para mejorar la página web.
+- Diseño de la web. Usaremos Bootstrap y CSS para mostrar las imágenes y mejorar la página web.
 
 - Despliegue de la página web. Usaremos AWS EC2 para desplegar la página gracias a una instancia EC2.
 
